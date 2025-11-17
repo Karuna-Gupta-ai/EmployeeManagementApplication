@@ -6,6 +6,7 @@ The system supports complete CRUD operations—Create, Read, Update, and Delete�
 
 **📌 Features
 **
+
 ✅ Console-based interactive user interface
 
 ✅ Add new employees
@@ -22,6 +23,7 @@ The system supports complete CRUD operations—Create, Read, Update, and Delete�
 
 **🛠 Tech Stack
 **
+
 Programming Language: Java
 
 Database: MySQL
@@ -30,6 +32,7 @@ Connectivity: JDBC (Java Database Connectivity)
 
 **⚙️ How It Works
 **
+
 Java application connects to MySQL using JDBC
 
 User interacts through a menu-driven console interface
@@ -40,6 +43,7 @@ Records are stored persistently in the database
 
 **🧩 Future Enhancements
 **
+
 Add a GUI using JavaFX or Swing
 
 Convert to REST API with Spring Boot
@@ -50,4 +54,5 @@ Implement report generation (PDF, Excel)
 
 **🔥 Demo of working
 **
+
 open "demo javaSQL.mp4" file
